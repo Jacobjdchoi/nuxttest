@@ -1,0 +1,27 @@
+Make a boilerplate or template for SNS sites
+    1. routing
+    2. users page
+    3. sign up and sign in
+        -sync with firebase
+    4. follow & following
+
+Priority
+    1. Backend
+        - firebase integration
+        - db testing
+            - db structure
+        - vue-notification
+        - infinite scrolling
+        - dotenv
+    2. front-end
+        - navigation
+        - page layouts
+        - small components
+        - icons
+
+Things to consider
+    - bulma
+    - vee-validate
+    - vue-notification
+    - karma-mocha - test driven developement
+
